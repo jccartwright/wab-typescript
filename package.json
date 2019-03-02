@@ -1,0 +1,36 @@
+{
+  "name": "wab-typescript",
+  "version": "1.0.0",
+  "description": "2D themes and widgets for Web AppBuilder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jccartwright/wab-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jccartwright/wab-typescript/issues"
+  },
+  "homepage": "https://github.com/jccartwright/wab-typescript#readme",
+  "keywords": "",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esri-wab-build /Users/jcc/WebAppBuilderForArcGIS/server/apps/2"
+  },
+  "devDependencies": {
+    "@types/arcgis-js-api": "^3.25.0",
+    "dojo-typings": "^1.11.9",
+    "esri-wab-build": "^1.1.0",
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.2",
+    "grunt-sync": "^0.8.0",
+    "grunt-ts": "^6.0.0-beta.22",
+    "node-sass": "^4.11.0",
+    "typescript": "^3.3.3333"
+  }
+}
