@@ -1,2 +1,4 @@
 # wab-typescript
-Web AppBuilder widgets and themes - TypeScript
+Web AppBuilder 2D widgets and themes - TypeScript
+
+uses https://github.com/Esri/generator-esri-appbuilder-js
